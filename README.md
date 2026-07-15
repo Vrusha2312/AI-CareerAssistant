@@ -3,7 +3,7 @@
 
 ## Summary
 
-## Background
+# Background
 
 ## How is it used?
 
